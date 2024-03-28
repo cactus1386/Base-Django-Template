@@ -1,2 +1,2 @@
-# ShopTemplate
-Coding a ecommerce website with django and django template
+# Base Django Template
+Basic django template for django projects
